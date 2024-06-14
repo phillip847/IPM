@@ -1,0 +1,25 @@
+.dashboard-container {
+    display: flex;
+  }
+  
+  .sidebar {
+    background-color: #a8a8a8; /* Set background color */
+    padding: 20px;
+  }
+  
+  .charts-section {
+    padding: 20px;
+  }
+  
+  .contacts-section {
+    background-color: #f8f9fa; /* Set background color */
+    padding: 20px;
+  }
+  
+  .chart, .contact {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #dee2e6; /* Set border color */
+    background-color: #999999; /* Set background color */
+  }
+  
